@@ -1,4 +1,9 @@
-# Responsive Plants Website 🌱
+<h1 align="center">
+  Responsive Plants Website 🌱<br/>
+  <a href="https://plantcorner.netlify.app" target="_blank">PlantCorner</a>
+</h1>
+
+<br/>
 
 ### Responsive Plants Website 🌱
 
